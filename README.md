@@ -13,6 +13,8 @@ TypeScript dashboard.
 
 > **One-line pitch:** *Not a CRUD app — a small ETL pipeline with a UI on top.*
 
+![Program Analytics dashboard showing KPI cards (4 programs, 18 projects, 6 critical, 8 at-risk, 89.0% avg budget utilization, 15 open risks) above an at-risk project table](docs/screenshots/dashboard.png)
+
 ---
 
 ## 1. Architecture
