@@ -1,0 +1,6 @@
+program_id,name,portfolio,program_manager,start_date,end_date,total_budget
+PGM-001,Customer 360 Modernization,Customer Experience,Priya Natarajan,2025-01-06,2026-06-30,4500000
+PGM-002,Cloud Migration Wave 2,Infrastructure,David Okafor,2025-03-01,2026-12-31,7800000
+PGM-003,Compliance & Regulatory Refresh,Risk & Compliance,Maria Hernandez,2025-02-15,2026-03-31,2900000
+PGM-004,Workforce Productivity Suite,Employee Experience,Jared Whitfield,2025-04-01,2026-09-30,3200000
+PGM-005,Bad Row Example,,not-a-real-pm,not-a-date,2026-09-30,negative

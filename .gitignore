@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+vite.config.ts.timestamp-*
+
+# Local env
+.env
+.env.local
+
+# Data artifacts
+data/failed/*.jsonl
+data/processed/*
+!data/failed/.gitkeep
+!data/processed/.gitkeep
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store

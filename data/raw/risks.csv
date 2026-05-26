@@ -1,0 +1,20 @@
+risk_id,project_id,severity,category,description,opened_date,status
+RSK-0001,PRJ-1001,MEDIUM,TECHNICAL,Source system rate limits may delay backfill,2025-04-12,OPEN
+RSK-0002,PRJ-1001,LOW,RESOURCE,Key engineer on extended leave in Q3,2025-06-01,MITIGATED
+RSK-0003,PRJ-1002,HIGH,DATA_QUALITY,CRM duplicates higher than expected; cleansing slipping,2025-05-20,OPEN
+RSK-0004,PRJ-1003,HIGH,SCHEDULE,Dependency on marketing platform upgrade slipping,2025-06-15,OPEN
+RSK-0005,PRJ-1003,MEDIUM,VENDOR,Attribution vendor support response time SLA risk,2025-07-04,OPEN
+RSK-0006,PRJ-1005,MEDIUM,SCOPE,Loyalty rules engine scope expanding,2025-08-01,OPEN
+RSK-0007,PRJ-2002,HIGH,BUDGET,Estimate overrun on ERP customizations,2025-06-22,OPEN
+RSK-0008,PRJ-2002,HIGH,SCHEDULE,Wave 1 cutover at risk due to integration gaps,2025-09-10,OPEN
+RSK-0009,PRJ-2003,LOW,SECURITY,Hardening backlog items unaddressed,2025-07-15,CLOSED
+RSK-0010,PRJ-2004,HIGH,DATA_QUALITY,Historical reconciliation gaps detected in pilot,2025-08-19,OPEN
+RSK-0011,PRJ-2004,MEDIUM,VENDOR,Migration partner staffing churn,2025-09-04,OPEN
+RSK-0012,PRJ-3001,MEDIUM,COMPLIANCE,Evidence automation coverage <80% of controls,2025-07-22,OPEN
+RSK-0013,PRJ-3002,HIGH,COMPLIANCE,DSR SLA breaches reported in pilot region,2025-08-30,OPEN
+RSK-0014,PRJ-3004,MEDIUM,VENDOR,Sanctions list feed latency exceeds threshold,2025-09-15,OPEN
+RSK-0015,PRJ-4002,MEDIUM,ADOPTION,Pilot user engagement below target,2025-10-01,OPEN
+RSK-0016,PRJ-4004,HIGH,SCHEDULE,Cycle automation blocked on HRIS API changes,2025-10-20,OPEN
+RSK-0017,PRJ-4004,MEDIUM,SCOPE,Performance review form variants growing,2025-11-05,OPEN
+RSK-0018,PRJ-1002,LOW,RESOURCE,Vendor onboarding paperwork delayed,2025-07-10,CLOSED
+RSK-BAD1,PRJ-1001,SUPER_BAD,TECHNICAL,Invalid severity value example,2025-10-01,OPEN
